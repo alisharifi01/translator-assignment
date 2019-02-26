@@ -10,6 +10,7 @@ Use maven spring boot plugin to run project (in project root path)
 ### Configs
 
 In ./src/main/resources you can find config files with description for every field
+Set input,output and config file paths
 
 ### Design
 
