@@ -13,7 +13,7 @@ In ./src/main/resources you can find config files with description for every fie
 
 ### Design
 
-
+![untitled diagram](https://user-images.githubusercontent.com/8441165/53450596-e9184080-3a31-11e9-945e-06d25519617e.jpg)
 
 ### Developers
 
