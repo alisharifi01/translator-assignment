@@ -11,7 +11,7 @@ public class ConfigGenerator {
         File file = new File("/home/alisharifi/Desktop/data/conf/row-mapping.conf");
         file.delete();
         FileWriter fw = new FileWriter("/home/alisharifi/Desktop/data/conf/row-mapping.conf",false);
-        int rows = 3 * 3 * 10000000;
+        int rows = 5 * 3 * 10000000;
         for(int i = 1 ; i < rows; i+=50) {
             String line2 = "ID" + i +
                     "\tOURID" + i;

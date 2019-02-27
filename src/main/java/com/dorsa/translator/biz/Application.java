@@ -21,7 +21,7 @@ public class Application {
 
     private Logger LOGGER = LoggerFactory.getLogger(Application.class);
 
-    @Value("${pool.consumer.count}")
+    @Value("${pool.consumer}")
     private int dataFileConsumerPoolCount;
 
     @Value("${file.path.dir.output.data}")
@@ -36,7 +36,7 @@ public class Application {
     @Autowired
     private DataFileLineConsumerThreadPoolManager dataFileLineConsumerThreadPoolManager;
 
-    @Value("${pool.data.file.reader}")
+    @Value("${pool.file.reader}")
     private int dataFileParserPoolCount;
 
     @Autowired

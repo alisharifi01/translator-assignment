@@ -15,7 +15,7 @@ public class Generator {
             String firstLine = "COL1\tCOL2\tCOL3\tCOL4\tCOL5\tCOL6\n";
             fw.write(firstLine);
             fw.flush();
-            int rows = 3 * 10000000;
+            int rows = 1 * 100000;
             for (int j = counter ; j < counter + rows; j++) {
                 StringBuffer sb = new StringBuffer("ID");
                 sb.append(j);

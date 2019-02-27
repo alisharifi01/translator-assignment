@@ -19,7 +19,7 @@ import java.util.concurrent.Future;
 @Component
 public class DataFileLineConsumerThreadPoolManager {
 
-    @Value("${pool.consumer.count}")
+    @Value("${pool.consumer}")
     private int CONSUMER_COUNT;
 
     private Logger LOGGER = LoggerFactory.getLogger(DataFileLineConsumerThreadPoolManager.class);

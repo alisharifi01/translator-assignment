@@ -13,10 +13,10 @@ import java.util.concurrent.Executors;
 })
 public class ApplicationConfig {
 
-    @Value("${pool.data.file.reader}")
+    @Value("${pool.file.reader}")
     private int dataFileParserPoolCount;
 
-    @Value("${pool.consumer.count}")
+    @Value("${pool.consumer}")
     private int dataFileConsumerPoolCount;
 
     @Bean("dataFileParsersThreadPool")
