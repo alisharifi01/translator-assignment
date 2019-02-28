@@ -1,6 +1,6 @@
 # TRANSLATOR
 
-### Instruciton 
+### Instruction 
 
 Use maven spring boot plugin to run project (in project root path)
 ```shell
