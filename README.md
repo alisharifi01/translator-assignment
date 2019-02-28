@@ -24,16 +24,19 @@ You can find description for all fields in application.properties
 
 ![untitled diagram](https://user-images.githubusercontent.com/8441165/53450596-e9184080-3a31-11e9-945e-06d25519617e.jpg)
 
-## Some Result
-# 5 input files
-# each file ------------> 2.7g
-# row-mapping.conf -----> 76mb
-# column-mapping.conf --> 37b
+### Some Result
+#### 5 input files
+#### each file ------------> 2.7g
+#### row-mapping.conf -----> 76mb
+#### column-mapping.conf --> 37b
 
-## lscpu
-Architecture:          x86_64
+#### lscpu
+Architecture:          x86_64 
+
 CPU(s):                4
+
 Thread(s) per core:    2
+
 
 ## JVM Heap size = 2g
 ![table](https://user-images.githubusercontent.com/8441165/53532059-99f20e80-3b0a-11e9-8de4-be3afdcb43b3.jpg)
