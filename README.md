@@ -26,7 +26,7 @@ You can find description for all fields in application.properties
 
 ### Some Result
 #### 5 input files
-#### each file = 2.7g
+#### each input file = 2.7g
 #### row-mapping.conf = 76mb
 #### column-mapping.conf = 37b
 
