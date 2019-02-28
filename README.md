@@ -24,41 +24,19 @@ You can find description for all fields in application.properties
 
 ![untitled diagram](https://user-images.githubusercontent.com/8441165/53450596-e9184080-3a31-11e9-945e-06d25519617e.jpg)
 
-### Some Result
-## 5 input files
-## each file ------------> 2.7g
-## row-mapping.conf -----> 76mb
-## column-mapping.conf --> 37b
+## Some Result
+# 5 input files
+# each file ------------> 2.7g
+# row-mapping.conf -----> 76mb
+# column-mapping.conf --> 37b
 
 ## lscpu
 Architecture:          x86_64
-CPU op-mode(s):        32-bit, 64-bit
-Byte Order:            Little Endian
 CPU(s):                4
-On-line CPU(s) list:   0-3
 Thread(s) per core:    2
-Core(s) per socket:    2
-Socket(s):             1
-NUMA node(s):          1
-Vendor ID:             GenuineIntel
-CPU family:            6
-Model:                 61
-Model name:            Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz
-Stepping:              4
-CPU MHz:               2731.499
-CPU max MHz:           3000.0000
-CPU min MHz:           500.0000
-BogoMIPS:              4792.96
-Virtualization:        VT-x
-L1d cache:             32K
-L1i cache:             32K
-L2 cache:              256K
-L3 cache:              4096K
 
 ## JVM Heap size = 2g
-
-[Untitled spreadsheet - Sheet1.pdf](https://github.com/alisharifi01/translator-assignment/files/2912773/Untitled.spreadsheet.-.Sheet1.pdf)
-
+![table](https://user-images.githubusercontent.com/8441165/53532059-99f20e80-3b0a-11e9-8de4-be3afdcb43b3.jpg)
 ### Developers
 
 Ali Sharifi   (alisharifi01@gmail.com)
