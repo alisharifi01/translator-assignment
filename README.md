@@ -22,7 +22,7 @@ You can find description for all fields in application.properties
 
 ### Design
 
-![untitled diagram](https://user-images.githubusercontent.com/8441165/53450596-e9184080-3a31-11e9-945e-06d25519617e.jpg)
+![untitled diagram](https://user-images.githubusercontent.com/8441165/53450596-e9184080-3a31-11e9-945e-06d25519617e.jpg = 700x500)
 
 ### Some Result
 #### 5 input files
