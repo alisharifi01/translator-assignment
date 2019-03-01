@@ -21,8 +21,7 @@ Set input,output and config file paths in  ./src/main/resources/application.prop
 You can find description for all fields in application.properties
 
 ### Design
-
-![](https://user-images.githubusercontent.com/8441165/53450596-e9184080-3a31-11e9-945e-06d25519617e.jpg)
+<img src="https://user-images.githubusercontent.com/8441165/53450596-e9184080-3a31-11e9-945e-06d25519617e.jpg" width="100%">
 
 ### Some Result
 #### 5 input files
