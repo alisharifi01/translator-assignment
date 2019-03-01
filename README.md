@@ -39,7 +39,7 @@ Thread(s) per core:    2
 
 
 ## JVM Heap size = 2g
-![table](https://user-images.githubusercontent.com/8441165/53532059-99f20e80-3b0a-11e9-8de4-be3afdcb43b3.jpg)
+![](https://user-images.githubusercontent.com/8441165/53532059-99f20e80-3b0a-11e9-8de4-be3afdcb43b3.jpg =700x)
 ### Developers
 
 Ali Sharifi   (alisharifi01@gmail.com)
